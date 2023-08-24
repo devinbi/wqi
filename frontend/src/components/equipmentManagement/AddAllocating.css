@@ -1,0 +1,128 @@
+.btn-wk1{
+  background-image: linear-gradient(147deg, #121d6e 0%, #1d40a9 74%);
+color: white;
+height: 45px;
+width: 180px;
+font-size: 1.1rem;
+border-radius: 0.6rem;
+border: none;
+/* box-shadow: 0px 0px 10px 2px rgba(255, 255, 255, 0.2),
+  0px 0px 10px 0px rgba(255, 255, 255, 0.19); */
+}
+
+/* Form Container */
+.page-component-body {
+  background-color: #061540; /* Adjust the background color as needed */
+}
+
+.input-main-form-emp {
+  background-color: rgb(255, 255, 255);
+  border: 3px solid #0b022b; /* Green border color, adjust as needed */
+  border-radius: 10px; /* Rounded corners */
+  padding: 15px;
+  margin-top: 20px;
+}
+
+/* Header */
+.headerNameFont {
+  background-color: #ffffff;
+  color: white;
+}
+
+/* Input Fields */
+.formInput {
+  border: none;
+  border-bottom: 1px solid #ccc; /* Bottom line for inputs */
+  padding: 5px;
+  width: 100%;
+  
+
+}
+
+/* Submit Button */
+.btn-wk1 {
+  background-color: #28265a; /* Adjust the background color as needed */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+
+.formInput {
+  border: none;
+  border-bottom: 1px solid #ccc; /* Bottom line for inputs */
+  padding: 5px;
+  width: 100%;
+  transition: border-bottom-color 0.3s; /* Add transition for smooth effect */
+  border: 3px solid #0b022b;
+}
+
+.formInput:hover {
+  border-bottom-color: #010528; /* Highlight the bottom line on hover */
+}
+
+
+
+.formInput {
+  border: none;
+  border-bottom: 1px solid #ccc; /* Bottom line for inputs */
+  padding: 5px;
+  width: 100%;
+  transition: border-bottom-color 0.3s; /* Add transition for smooth effect */
+}
+
+.formInput:hover,
+.formInput:focus {
+  border-bottom-color: #060443; /* Highlight the bottom line on hover and focus */
+  outline: none; /* Remove default focus outline */
+}
+
+
+/* ... (other CSS rules) */
+
+
+
+/* Result Box */
+.result-box {
+  border: 1px solid #ccc; /* Border style */
+  padding: 10px; /* Add some padding for spacing */
+  border-radius: 5px; /* Rounded corners */
+}
+
+/* ... (other CSS rules) */
+
+/* ... (other CSS rules) */
+
+/* Form Container */
+.form-container {
+  display: flex; /* Use flexbox for layout */
+  justify-content: space-between; /* Spread elements horizontally */
+  align-items: flex-start; /* Align items to the top */
+}
+
+.input-fields {
+  width: 48%; /* Set width for input fields container */
+  padding-right: 2%; /* Add a bit of space between input fields and results */
+}
+
+.results {
+  width: 48%; /* Set width for results container */
+}
+
+/* ... (other CSS rules) */
+.hr{
+  color: aqua;
+  background-color: #1d40a9;
+}
+
+.logo1{
+  
+  width: 10px;
+  height: 20px;
+}
+
+
